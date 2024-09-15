@@ -2,11 +2,21 @@
 
 
 ## 🚀 About Me
-I'm a full-stack developer proficient in MERN stack, dedicated to crafting robust and efficient web solutions. I hold a BSc in Computer Science and Engineering from Daffodil International University, Bangladesh. For inquiries or collaboration opportunities, feel free to reach out to me via email at smka.shakil@gmail.com.
+I’m currently pursuing a Master's in Data Science at the University of Potsdam, Germany, building on my background in Computer Science and Engineering from Daffodil International University, Bangladesh. I’m passionate about turning data into actionable insights and leveraging cutting-edge techniques to solve real-world problems.
+
+With a strong foundation in programming and analytics, I’m now focusing on expanding my expertise in data science, machine learning, and AI. I’m always open to new challenges and collaborations, so feel free to reach out to me at smka.shakil@gmail.com.
+
 
 
 ## 🛠 Skills
-HTML, CSS, Bootstrap, Tailwind CSS, Javascript, React, NodeJs & ExpressJs, API, Database (MongoDB)
+Excel, MySql, Tableau, Python
+
+
+
+## 💼 Key Projects
+Sales Data Analysis: Analyzed sales data to identify trends, customer segmentation, and forecast future sales using Excel and Tableau.
+Customer Churn Prediction: Built a machine learning model in Python to predict customer churn for a telecommunications company, improving retention strategy.
+SQL Queries for Business Insights: Wrote complex SQL queries to extract actionable insights from large datasets, focusing on financial and customer data.
 
 
 
