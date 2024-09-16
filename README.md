@@ -1,4 +1,4 @@
-### Hello there, this is S M Khasrul Alam 👋  
+### Hello there, 👋  
 I am passionate about uncovering insights through Data Science.
 
 ⚙️ I use daily: Excel, SQL, Tableau, Python  
@@ -8,7 +8,7 @@ I am passionate about uncovering insights through Data Science.
 
 
 
-### Projects overview:
+### 📂Projects overview:
 
 * **Sales Data Analysis:** Analyzed sales data to identify trends, customer segmentation, and forecast future sales using Excel and Tableau. [[Explore]](github.com)
 
