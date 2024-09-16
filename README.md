@@ -7,7 +7,7 @@ I am passionate about uncovering insights through Data Science.
 
 
 
-
+<!--
 ### 📂Projects overview:
 
 * **Sales Data Analysis:** Analyzed sales data to identify trends, customer segmentation, and forecast future sales using Excel and Tableau. [[Explore]](github.com)
@@ -16,4 +16,4 @@ I am passionate about uncovering insights through Data Science.
 
 * **SQL Queries for Business Insights:** Wrote complex SQL queries to extract actionable insights from large datasets, focusing on financial and customer data.   [[Explore]](github.com)
 
-
+-->
