@@ -1,5 +1,5 @@
 ### Hello there, 👋  
-I am passionate about uncovering insights through Data Science.
+I am Khasrul Alam, I like to uncover insights from data.
 
 ⚙️ I use daily: Excel, SQL, Tableau, Python  
 🔍 Proficient in: Data Analysis, Data Visualization  
