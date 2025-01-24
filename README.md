@@ -1,7 +1,7 @@
 ### Hello there, 👋  
 I am Khasrul Alam, I like to uncover insights from data.
 
-⚙️ I use daily: Excel, SQL, Tableau, Python  
+⚙️ I use daily: Python, SQL, Excel, Power BI   
 🔍 Proficient in: Data Analysis, Data Visualization  
 💬 Ping me about data analysis, machine learning, or data science projects  
 
